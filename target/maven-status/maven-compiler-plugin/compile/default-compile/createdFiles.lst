@@ -1,0 +1,3 @@
+com\hellospring\controller\HomeController.class
+com\hellospring\dao\ProductDao.class
+com\hellospring\model\Product.class
